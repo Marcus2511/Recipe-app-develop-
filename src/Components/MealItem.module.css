@@ -1,0 +1,16 @@
+.card{
+    width: 180px;
+    border-radius: 1rem;
+    background-color: brown;
+    padding: 5px;
+}
+
+img{
+    width: 100%;
+    border-radius: 1rem 1rem 0 0;
+}
+
+.card h3{
+    color: white;
+    font-size: 18px;
+}

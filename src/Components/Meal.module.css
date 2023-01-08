@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: linear-gradient(120deg, #a1c4fd 0%, #c2e9fb 100%);
+}
+
+.main{
+    text-align: center;
+}
+
+.heading h1{
+    font-size: 50px;
+    letter-spacing: 1px;
+    padding-top: 2rem;
+    margin: 1rem;
+}
+
+.heading h4{
+    font-style: italic;
+}
+
+.search-bar{
+    font-size: large;
+    margin: 1rem 0;
+    width: 40%;
+    height: 50px;
+    border-radius: 0 20px 0 20px;
+    padding: 1rem;
+    margin-top: 2rem;
+}
+
+.container{
+    width: 70%;
+    margin: 30px auto;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    grid-gap: 5rem;
+}
+
+.indexcontainer{
+    display: flex;
+    justify-content: center;
+    margin: 2.5rem 8rem;
+
+}
