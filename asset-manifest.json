@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Recipe-app-develop-/static/css/main.b0297385.css",
-    "main.js": "/Recipe-app-develop-/static/js/main.de42c0e1.js",
+    "main.js": "/Recipe-app-develop-/static/js/main.2a154ae0.js",
     "static/media/wood.jpg": "/Recipe-app-develop-/static/media/wood.f306aff8ae56529b432b.jpg",
     "index.html": "/Recipe-app-develop-/index.html",
     "main.b0297385.css.map": "/Recipe-app-develop-/static/css/main.b0297385.css.map",
-    "main.de42c0e1.js.map": "/Recipe-app-develop-/static/js/main.de42c0e1.js.map"
+    "main.2a154ae0.js.map": "/Recipe-app-develop-/static/js/main.2a154ae0.js.map"
   },
   "entrypoints": [
     "static/css/main.b0297385.css",
-    "static/js/main.de42c0e1.js"
+    "static/js/main.2a154ae0.js"
   ]
 }
